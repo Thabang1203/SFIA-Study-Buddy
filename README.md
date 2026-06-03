@@ -4,7 +4,7 @@ Here’s the updated README with SFIA expanded under the link:
 
 # SFIA Study Buddy
 
-[View Live App](https://sfia-clarity-flow.base44.app)
+[SFIA Study Buddy](https://sfia-clarity-flow.base44.app)
 
 SFIA Study Buddy (Skills Framework for the Information Age) is an AI-powered study assistant designed to help students learn, revise, and test their knowledge more effectively. It transforms study material into interactive learning experiences, making revision simpler and more engaging.
 
